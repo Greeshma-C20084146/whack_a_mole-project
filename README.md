@@ -19,8 +19,8 @@ Keep guessing until you either guess the entire word or run out of attempts.
 You need to click "Play Again" to start the game. We are currently working on the bug.
 
 # Setup and Installation ⚙️
-Clone this repository: git clone https://github.com/swapnilmukherjee/Space-Hangman.git
-Navigate to the project directory: cd Space-Hangman
+Clone this repository: git clone https://github.com/girishraja1508/whack_a_mole-project.git
+Navigate to the project directory: cd whack_a_mole-project
 Install the required dependencies: pip install -r requirements.txt
 Run the game: python app.py
 Open a web browser and go to http://127.0.0.1:5000/ to play the game.
