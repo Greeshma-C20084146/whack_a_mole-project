@@ -78,14 +78,22 @@ button{
 }
 
 .final-score {
+ .final-score {
   font-family: 'Times New Roman';
   text-align: center;
-  margin-top: 10px;
+  margin: 0 auto; /* Center horizontally */
+  margin-top: 5% /* Adjust this value to center vertically */
   padding: 2px;
   background-color: green;
-  border: 2px solid #000;
+  border: 1px solid #000;
   border-radius: 10px;
-  width: 500px; 
-  height: 175px; 
-  font-size: 2rem; 
+  width: 400px;
+  height: 175px;
+  font-size: 2rem;
+  display: flex; /* Use flexbox */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  padding-left: 15px;
+}
+
 }
