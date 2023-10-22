@@ -80,14 +80,13 @@ button{
 .final-score {
   font-family: 'Times New Roman';
   text-align: center;
-  margin: 0 auto;
-  margin-top: 5%;
+  margin: 20px auto 0;
   padding: 2px;
   background-color: green;
   border: 1px solid #000;
   border-radius: 10px;
-  width: 480px;
-  height: 100px;
+  width: 400px;
+  height: 175px;
   font-size: 2rem;
   display: flex;
   align-items: center;
