@@ -82,12 +82,11 @@ button{
   text-align: center;
   margin-top: 5px;
   margin-left: 10 px;
-  padding: 2px;
+  padding: 10px;
   background-color: green;
   border: 1px solid #000;
   border-radius: 10px;
   width: 400px; 
   height: 175px; 
   font-size: 2rem; 
-  padding-left: 15px;
 }
