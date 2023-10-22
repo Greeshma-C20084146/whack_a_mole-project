@@ -78,7 +78,6 @@ button{
 }
 
 .final-score {
- .final-score {
   font-family: 'Times New Roman';
   text-align: center;
   margin: 0 auto; /* Center horizontally */
@@ -96,4 +95,3 @@ button{
   padding-left: 15px;
 }
 
-}
