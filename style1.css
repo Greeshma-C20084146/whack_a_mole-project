@@ -88,4 +88,5 @@ button{
   width: 300px; 
   height: 175px; 
   font-size: 2rem; 
+  padding-left: 5px;
 }
