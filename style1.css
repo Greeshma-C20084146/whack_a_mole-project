@@ -81,11 +81,11 @@ button{
   font-family: 'Times New Roman';
   text-align: center;
   margin-top: 15px;
-  padding: 1px;
+  padding: 2px;
   background-color: green;
   border: 1px solid #000;
   border-radius: 10px;
-  width: 200px; 
+  width: 400px; 
   height: 170px; 
   font-size: 2rem; 
 }
