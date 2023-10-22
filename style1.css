@@ -80,8 +80,8 @@ button{
 .final-score {
   font-family: 'Times New Roman';
   text-align: center;
-  margin: 0 auto; /* Center horizontally */
-  margin-top: 5% /* Adjust this value to center vertically */
+  margin: 0 auto;
+  margin-top: 5%
   padding: 2px;
   background-color: green;
   border: 1px solid #000;
@@ -89,9 +89,8 @@ button{
   width: 400px;
   height: 175px;
   font-size: 2rem;
-  display: flex; /* Use flexbox */
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
+  display: flex;
+  justify-content: center;
   padding-left: 15px;
 }
 
