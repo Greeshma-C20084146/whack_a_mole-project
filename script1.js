@@ -34,7 +34,7 @@
     if(!e.isTrusted) return; 
     score++;
     this.parentNode.classList.remove('up');
-    scoreBoard.textContent = score*score;
+    scoreBoard.textContent = score;
   }
 function peep() {
   if (!timeUp) {
