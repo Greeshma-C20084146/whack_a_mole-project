@@ -1,8 +1,4 @@
-<!--
-Greeshma Chandra Shekar - C20084146
-Girish Raja Gunda - C13275928
-Apoorva Gaddam - C55159095
--->
+//Greeshma Chandra Shekar - C20084146; Girish Raja Gunda - C13275928; Apoorva Gaddam - C55159095
 
   const h = document.querySelectorAll('.hole');
   const scoreBoard = document.querySelector('.score');
