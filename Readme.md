@@ -65,6 +65,7 @@ Apoorva Gaddam          - C55159095
 # Credits for third-party assets
 Free svg
 
+https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
 
 
-### [Enjoy whackking those moles!](https://girishraja1508.github.io/whackk_a_mole-project/)
+### Enjoy whackking those moles![](https://girishraja1508.github.io/whackk_a_mole-project/)
