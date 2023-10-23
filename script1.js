@@ -1,4 +1,10 @@
-const h = document.querySelectorAll('.hole');
+<!--
+Greeshma Chandra Shekar - C20084146
+Girish Raja Gunda - C13275928
+Apoorva Gaddam - C55159095
+-->
+
+  const h = document.querySelectorAll('.hole');
   const scoreBoard = document.querySelector('.score');
   const moles = document.querySelectorAll('.mole');
   let lastHole;
@@ -40,7 +46,6 @@ function peep() {
     const hole = random_Hole(h);
 
     if (hole.classList.contains('up')) {
-      // If a mole is already up, wait and try again
       setTimeout(peep, 100);
     } else {
       hole.classList.add('up');
