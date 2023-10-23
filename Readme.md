@@ -36,7 +36,7 @@ Your recent previous game score can be viewed below the holes.
 # Setup and Installation ⚙️
 Clone this repository: git clone https://github.com/girishraja1508/whack_a_mole-project.git, to view our source code and open the index.html file in any browser you like.
 
-Open https://girishraja1508.github.io/whackk_a_mole-project/ to [play](https://girishraja1508.github.io/whackk_a_mole-project/) the game.
+Open https://girishraja1508.github.io/whack_a_mole-project/ to [play](https://girishraja1508.github.io/whack_a_mole-project/) the game.
 
 # Technologies Used 🛠
 HTML: The whack-a-Mole game can be played online using HTML, which improves the entire gameplay experience.
@@ -68,4 +68,4 @@ Free svg
 https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
 
 
-### [Play now](https://girishraja1508.github.io/whackk_a_mole-project/) and Enjoy whacking those moles! 
+### [Play now](https://girishraja1508.github.io/whack_a_mole-project/) and Enjoy whacking those moles! 
