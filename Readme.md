@@ -63,6 +63,8 @@ Girish Raja Gunda       - C13275928
 Apoorva Gaddam          - C55159095
 
 # Credits for third-party assets
+Our reference to the code was taken from GitHub and the username for the author of code is Divyamcm.The borrowed code, sourced from an external library, is a key component for implementing advanced data visualization in our project.It greatly enhances the user interface by providing interactive features.Also the other reason is,this code ensures more engaging user experience while saving development time and effort.
+Here is the reference link:
 Free svg
 
 https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
