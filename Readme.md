@@ -56,11 +56,11 @@ In conclusion, the development process for our game project was filled with chal
 
 
 # Contributors 🤝
-Greeshma Chandra Shekar - C20084146
+[Greeshma Chandra Shekar](https://github.com/Greeshma-C20084146) - C20084146
 
-Girish Raja Gunda       - C13275928
+[Girish Raja Gunda](https://github.com/girishraja1508)      - C13275928
 
-Apoorva Gaddam          - C55159095
+[Apoorva Gaddam](https://github.com/Apoorva401)       - C55159095
 
 # Credits for third-party assets
 Our reference to the code was taken from GitHub and the username for the author of the code is Divyamcm. The borrowed code, sourced from an external library, is a key component for implementing advanced data visualization in our project. It greatly enhances the user interface by providing interactive features. Also, the other reason is, that this code ensures a more engaging user experience while saving development time and effort.
