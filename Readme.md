@@ -63,10 +63,10 @@ In conclusion, the development process for our game project was filled with chal
 [Apoorva Gaddam](https://github.com/Apoorva401)       - C55159095
 
 # Credits for third-party assets
-Our reference to the code was taken from GitHub and the username for the author of the code is Divyamcm. The borrowed code, sourced from an external library, is a key component for implementing advanced data visualization in our project. It greatly enhances the user interface by providing interactive features. Also, the other reason is, that this code ensures a more engaging user experience while saving development time and effort.
+Our reference to the code was taken from GitHub and the username for the author of the code is Divyamcm. The borrowed code, sourced from an external library, is a key component for implementing advanced data visualization in our project. 
 
 Here is the reference link: 
 
-https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
+`https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole`
 
 ### [Enjoy whacking those moles!](https://girishraja1508.github.io/whack_a_mole-project/) 
