@@ -68,4 +68,4 @@ Free svg
 https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
 
 
-### [Play now](https://girishraja1508.github.io/whack_a_mole-project/) and Enjoy whacking those moles! 
+### [Enjoy whacking those moles!](https://girishraja1508.github.io/whack_a_mole-project/) 
