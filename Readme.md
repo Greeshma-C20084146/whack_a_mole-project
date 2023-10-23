@@ -1,7 +1,7 @@
 # whack-a-Mole
 ![image](https://github.com/girishraja1508/whack_a_mole-project/assets/125087684/4f3c6f20-3c06-4cb9-bcd7-3dfd335719bc)
 
-Welcome to the whack-a-Mole game repository! whack-a-Mole is a classic and fun arcade game where our mission is to whack those pesky moles that pop up from their holes. This repository contains the complete source code and assets needed to run the game.
+Welcome to the whack-a-Mole game repository! Whack-a-mole is a classic and fun arcade game where our mission is to whack those pesky moles that pop up from their holes. This repository contains the complete source code and assets needed to run the game.
 
 # Overview 📖
 The iconic and entertaining arcade game Whack-a-Mole tests your hand-eye coordination and reflexes. You will encounter a grid of holes in this digital adaption, and your goal is to whack the moles that emerge from them. Your score will increase based on how quickly you can hit them!
@@ -68,7 +68,5 @@ Our reference to the code was taken from GitHub and the username for the author 
 Here is the reference link: 
 
 https://github.com/Divyamcm/Projects/tree/main/Whack-a-mole
-
-Free svg
 
 ### [Enjoy whacking those moles!](https://girishraja1508.github.io/whack_a_mole-project/) 
