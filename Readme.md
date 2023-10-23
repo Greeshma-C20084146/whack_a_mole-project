@@ -34,7 +34,7 @@ Your recent previous game score can be viewed below the holes.
 
 
 # Setup and Installation ⚙️
-Clone this repository: git clone https://github.com/girishraja1508/whack_a_mole-project.git, to view our source code.
+Clone this repository: git clone https://github.com/girishraja1508/whack_a_mole-project.git, to view our source code and open the index.html file in any browser you like.
 
 Open https://girishraja1508.github.io/whack_a_mole-project/ to [play](https://girishraja1508.github.io/whack_a_mole-project/) the game.
 
@@ -61,5 +61,10 @@ Greeshma Chandra Shekar - C20084146
 Girish Raja Gunda       - C13275928
 
 Apoorva Gaddam          - C55159095
+
+# Credits for third-party assets
+Free svg
+
+
 
 ### [Enjoy whacking those moles!](https://girishraja1508.github.io/whack_a_mole-project/)
