@@ -3,8 +3,6 @@
 
 Welcome to the whack-a-Mole game repository! Whack-a-mole is a classic and fun arcade game where our mission is to whack those pesky moles that pop up from their holes. This repository contains the complete source code and assets needed to run the game.
 
-# Overview 📖
-The iconic and entertaining arcade game Whack-a-Mole tests your hand-eye coordination and reflexes. You will encounter a grid of holes in this digital adaption, and your goal is to whack the moles that emerge from them. Your score will increase based on how quickly you can hit them!
 
 # Features
 Simple but compelling gameplay.
