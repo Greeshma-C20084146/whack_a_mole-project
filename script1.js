@@ -55,7 +55,7 @@
     if (score>20 & score<=50){
       level.innerHTML="Level 2"
       htmlElement.style.backgroundColor = "#f2c13a";
-      max_time = 800
+      max_time = 1000
     }else if(score>50){
       level.innerHTML="Level 3"
       htmlElement.style.backgroundColor = "#f25f3a";
