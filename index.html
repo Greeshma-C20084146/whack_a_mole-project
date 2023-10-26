@@ -13,11 +13,15 @@ Apoorva Gaddam - C55159095
   <link rel="stylesheet" href="style1.css">
 </head>
 <body>
+  
   <h1 style="color:black; background-color:white;" >Whack-a-mole!!</h1>
+  <h1 id="game_level">Level 1</h1> 
   <h1 class="your score"> 0</h1>
   <div class = "start">
   <button onClick="startGame()">Let's go!</button>
+  <button onclick="endGame()">End Game!</button>
   </div>
+
   <div class="whack_a_mole">
     <div class="hole hole1">
       <div class="mole"></div>
@@ -52,6 +56,7 @@ Apoorva Gaddam - C55159095
     <h2>Previous Game Score: </h2>
     <h1 id="final_score_value">0</h1>
 </div>
+
 <script src="script1.js"></script>
 </body>
 </html>
