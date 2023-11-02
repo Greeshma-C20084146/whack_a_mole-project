@@ -14,7 +14,7 @@ Beautifully crafted moles for you to smack.
 For a more immersive experience, we used visually impressive CSS designs.
 
 # How to Play 🎮
-Click or tap on the moles as they appear in the holes.
+Click or tap on the moles as they appear from the holes.
 
 Score points by whacking as many moles as you can.
 
