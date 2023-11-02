@@ -55,7 +55,7 @@
     if (score>20 & score<=50){
       level.innerHTML="Level 2"
       htmlElement.style.backgroundColor = "#f2c13a";
-      max_time = 1000
+      max_time = 800
     }else if(score>50){
       level.innerHTML="Level 3"
       htmlElement.style.backgroundColor = "#f25f3a";
@@ -64,7 +64,7 @@
     else if(score<=20){
       level.innerHTML="Level 1"
       htmlElement.style.backgroundColor = "#a9f23a";
-      max_time = 1500
+      max_time = 1000
     }
   }
 function peep() {
